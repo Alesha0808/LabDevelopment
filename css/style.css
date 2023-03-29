@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Sacramento|Montserrat|Merriweather);
 @import url(https://allfont.ru/allfont.css?fonts=corinthia);
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 body{
     color: #40514E;
     margin: 0;
@@ -27,7 +28,7 @@ hr{
     width: 5%;
 }
 .top-container{
-    background-color: #00FFFF;
+    background-color: #040443;
     position: relative;
     padding-top: 50px 0;
 }
@@ -40,9 +41,9 @@ hr{
 .top-container p
 {
     color: #FF0000;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     font-family: sans-serif;
-    font-family: "Corinthia", arial;
+    font-family: 'Dancing Script', cursive;
 }
 .middle-container{
     margin: 100px;
@@ -65,12 +66,12 @@ hr{
 }
 .top-cloud{
     position: absolute;
-    right: 100px;
+    right: 600px;
     top: 5px;
 }
 .bottom-cloud{
     position: absolute;
-    left: 100px;
+    left: 700px;
     top: 150px;
 }
 .code-img{
